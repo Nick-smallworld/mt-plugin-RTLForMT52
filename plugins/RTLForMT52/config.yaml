@@ -1,0 +1,12 @@
+id: RTLForMT52
+name: RTLForMT52
+version: 1.00
+description: Enable rtl directory on TinyMCE editor implmented in Movable Type 5.2 or upper.
+author_name: Nick
+author_link: http://www.linkedin.com/in/takeshiosanai
+doc_link: 
+
+editors:
+  tinymce:
+    config:
+      directionality: rtl
